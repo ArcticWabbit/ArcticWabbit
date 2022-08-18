@@ -9,7 +9,7 @@ Skills: Unity / C#
 - 🔭 I’m currently working on small game demos 
 - 🌱 I’m currently learning Unity and C# 
 - 👯 I’m looking to collaborate on making a game! 
-- 📫 How to reach me: arcticwabbit@gmail.com 
+- 📫 How to reach me: @ArcticWabbit & arcticwabbit@gmail.com 
 - ⚡ Fun fact: Mind Flayer is my favorite monster  
 
 

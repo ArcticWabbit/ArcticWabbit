@@ -33,4 +33,35 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 4 Contributions in the Year 2023
+ > 
+> 📦 52.9 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+C#                       1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+
+```
+
+
+
+ Last Updated on 03/01/2023 21:31:21 UTC
 <!--END_SECTION:waka-->

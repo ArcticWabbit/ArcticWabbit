@@ -1,4 +1,4 @@
-### Hi there 🧙🏻‍♂️, my name is ArcticWabbit
+<h2><img src="https://media.tenor.com/9T0J17LeLCMAAAAi/aahh-fun.gif">Hi there 🧙🏻‍♂️, my name is ArcticWabbit<img src="https://media.tenor.com/voXPVSS4kboAAAAi/dance-happy.gif"></h2>
 #### I am a student learning game development
 ![I am a student learning game development](https://pbs.twimg.com/profile_banners/1560015367107641344/1660794722/600x200)
 

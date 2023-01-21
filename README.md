@@ -80,13 +80,13 @@ Sunday       13 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -102,5 +102,5 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 20/01/2023 18:43:12 UTC
+ Last Updated on 21/01/2023 18:40:47 UTC
 <!--END_SECTION:waka-->

@@ -33,11 +33,11 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,11 +68,11 @@ Sunday          13 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-YAML                     27 mins             ████████████████████████░   97.63 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+YAML                     1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   39.67 % 
+Docker                   1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   37.94 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Properties               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 ```
 
@@ -89,5 +89,5 @@ Java                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:44:05 UTC
+ Last Updated on 17/02/2023 18:42:23 UTC
 <!--END_SECTION:waka-->

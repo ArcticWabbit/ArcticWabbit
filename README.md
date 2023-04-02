@@ -66,8 +66,7 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    44 mins             █████████████████████████   99.63 % 
-Scilab                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +82,5 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/04/2023 18:38:03 UTC
+ Last Updated on 02/04/2023 18:38:22 UTC
 <!--END_SECTION:waka-->

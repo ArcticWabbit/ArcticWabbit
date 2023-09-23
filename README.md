@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,7 +66,7 @@ Sunday                   272 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +82,5 @@ C#                       1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 22/09/2023 18:38:33 UTC
+ Last Updated on 23/09/2023 18:38:12 UTC
 <!--END_SECTION:waka-->

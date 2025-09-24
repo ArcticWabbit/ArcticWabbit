@@ -37,25 +37,13 @@ if __name__ == '__main__':
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 60.7 kB Used in GitHub's Storage 
- > 
-> 🏆 29 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                796 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌙 Night                  499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌞 Morning                798 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌙 Night                  499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 ```
 
 
@@ -87,10 +75,6 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ArcticWabbit/ArcticWabbit/main/assets/bar_graph.png)
-
-
- Last Updated on 24/09/2025 13:11:54 UTC
+ Last Updated on 24/09/2025 18:47:22 UTC
 <!--END_SECTION:waka-->

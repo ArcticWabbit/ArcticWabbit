@@ -33,9 +33,47 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 60.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                796 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌙 Night                  499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+JavaScript               15 hrs 45 mins      █████████████████████░░░░   82.44 % 
+CSS                      2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+🐱‍💻 Projects: 
+retro-rpg-portfolio      19 hrs 6 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -49,6 +87,10 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 23/09/2025 18:49:18 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/ArcticWabbit/ArcticWabbit/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/09/2025 13:11:54 UTC
 <!--END_SECTION:waka-->

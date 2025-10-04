@@ -33,7 +33,32 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                798 commits         █████████░░░░░░░░░░░░░░░░   37.43 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+🌃 Evening                576 commits         ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌙 Night                  499 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+HTML                     1 min               ███████████████░░░░░░░░░░   60.86 % 
+CSS                      0 secs              ██████████░░░░░░░░░░░░░░░   39.14 % 
+
+🐱‍💻 Projects: 
+Assignment 2             1 min               █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -48,5 +73,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 18:47:59 UTC
+ Last Updated on 04/10/2025 18:44:48 UTC
 <!--END_SECTION:waka-->

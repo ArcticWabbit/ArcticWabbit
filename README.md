@@ -33,8 +33,6 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2019%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -73,5 +71,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:47:00 UTC
+ Last Updated on 16/11/2025 18:47:46 UTC
 <!--END_SECTION:waka-->

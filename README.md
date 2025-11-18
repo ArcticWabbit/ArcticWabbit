@@ -53,11 +53,10 @@ if __name__ == '__main__':
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     4 mins              ██████████████████████░░░   86.21 % 
-CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Portfolio Site           5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +72,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 18:51:04 UTC
+ Last Updated on 18/11/2025 18:52:58 UTC
 <!--END_SECTION:waka-->

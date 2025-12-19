@@ -53,12 +53,10 @@ if __name__ == '__main__':
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue.js                   48 mins             █████████████████████████   99.40 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cis255-final             36 mins             ███████████████████░░░░░░   75.41 % 
-final_project            11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -74,5 +72,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 18:56:06 UTC
+ Last Updated on 19/12/2025 18:54:03 UTC
 <!--END_SECTION:waka-->

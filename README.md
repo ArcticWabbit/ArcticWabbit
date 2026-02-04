@@ -33,7 +33,7 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,10 +53,13 @@ if __name__ == '__main__':
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+JavaScript               26 mins             ████████████████░░░░░░░░░   62.48 % 
+JSON                     15 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.00 % 
+linkedin-adblocker       39 mins             ████████████████████████░   95.20 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
 **I Mostly Code in Python** 
@@ -72,5 +75,5 @@ C                        1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 03/02/2026 19:27:30 UTC
+ Last Updated on 04/02/2026 19:24:21 UTC
 <!--END_SECTION:waka-->

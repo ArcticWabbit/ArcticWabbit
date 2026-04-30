@@ -33,17 +33,17 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.70%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                804 commits         █████████░░░░░░░░░░░░░░░░   37.40 % 
-🌆 Daytime                265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-🌙 Night                  503 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+🌞 Morning                806 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌆 Daytime                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌃 Evening                578 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌙 Night                  503 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 ```
 
 
@@ -53,30 +53,29 @@ if __name__ == '__main__':
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     25 mins             ████████████░░░░░░░░░░░░░   48.17 % 
-Bash                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+HTML                     25 mins             █████████████░░░░░░░░░░░░   52.27 % 
+Bash                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-nodejs_backend_with_mongo46 mins             ██████████████████████░░░   86.92 % 
-SmartParking_Final_Projec4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-app                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+nodejs_backend_with_mongo46 mins             ████████████████████████░   94.33 % 
+app                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
 
 
- Last Updated on 29/04/2026 20:00:41 UTC
+ Last Updated on 30/04/2026 19:57:54 UTC
 <!--END_SECTION:waka-->

@@ -33,8 +33,6 @@ if __name__ == '__main__':
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%204%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.70%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -72,5 +70,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:54:43 UTC
+ Last Updated on 07/06/2026 19:56:17 UTC
 <!--END_SECTION:waka-->
